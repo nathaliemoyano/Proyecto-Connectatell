@@ -4,19 +4,19 @@
 
 **Se Utilizaron 3 fuentes de datos:**
 
--plans.csv:** los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
--users_latam.csv:** información de clientes: edad, ciudad, fecha de registro, plan contratado.
--**usage.csv:** el detalle de uso real: llamadas (duración) y mensajes (longitud).
+- **plans.csv:** los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+- **users_latam.csv:** información de clientes: edad, ciudad, fecha de registro, plan contratado.
+- **usage.csv:** el detalle de uso real: llamadas (duración) y mensajes (longitud).
 
 **Etapas del Análisis**
 
--Carga y exploración inicial de los 3 datasets
--Limpieza de datos (nulos, sentinels, fechas inválidas)
--Integración de tablas
--Análisis estadístico y detección de outliers
--Segmentación por edad y nivel de uso
--Visualizaciones
--Conclusiones e insights de negocio
+- Carga y exploración inicial de los 3 datasets
+- Limpieza de datos (nulos, sentinels, fechas inválidas)
+- Integración de tablas
+- Análisis estadístico y detección de outliers
+- Segmentación por edad y nivel de uso
+- Visualizaciones
+- Conclusiones e insights de negocio
 
 
 
