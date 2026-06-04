@@ -1,10 +1,10 @@
 **Análisis Ptoyecto Conectatel:** 
-**Objetivo: **identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
+\n**Objetivo:** identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
-Se Utilizaron 3 fuentes de datos:
-**plans.csv:** los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
-**users_latam.csv:** información de clientes: edad, ciudad, fecha de registro, plan contratado.
-**usage.csv:** el detalle de uso real: llamadas (duración) y mensajes (longitud).
+**Se Utilizaron 3 fuentes de datos:**
+\n**plans.csv:** los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+\n**users_latam.csv:** información de clientes: edad, ciudad, fecha de registro, plan contratado.
+\n**usage.csv:** el detalle de uso real: llamadas (duración) y mensajes (longitud).
 
 **Etapas del Análisis**
 -Carga y exploración inicial de los 3 datasets
