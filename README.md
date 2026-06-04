@@ -16,14 +16,12 @@
 - Análisis estadístico y detección de outliers
 - Segmentación por edad y nivel de uso
 - Visualizaciones
-- Conclusiones e insights de negocio
-
-
+- Conclusiones e insights de negocio.
 
 **Guía de reproducción, Necesitas:**
 
 - Cargar 3 fuentes de datos: plans.csv, users_latam.csv, usage.csv
 - Importar líbrerias :pandas, numpy, seaborn, matplotlib
 - Abrir el notebook  y ejecutar todas las celdas en orden, desde la primera hasta la última, usando Run All o ejecutando celda por celda de arriba hacia abajo.
-- Puedes abrir el proyecto en Google Colab o Jupyter
-- Los datasets deben estar en una ruta específica como /datasets/
+- Puedes abrir el proyecto en Google Colab o Jupyter aqui : https://github.com/nathaliemoyano/Proyecto-Connectatell
+- Los datasets deben estar en una ruta específica como /datasets/ si deseas cargarlos manualmente
